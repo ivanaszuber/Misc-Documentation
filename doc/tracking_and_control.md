@@ -27,3 +27,16 @@ quality in the appropriate way.
 In that regards, the following section of the OMS project plan contains a detailed description of quality assurance
 
 planning, implementation and controlling techniques that will be used in the OMS project.
+
+
+1.1. Quality assurance and control
+
+Quality assurance system is a mechanism that applies the principles of quality management in the organization.
+
+The system involves activities that have an impact on the quality of the end product, including the organizational
+
+structure, procedures, responsibilities, resources, and processes required to implement quality management. We
+
+can categorize these activities into quality planning, assurance, and control, as described in the following sub-
+
+sections.
