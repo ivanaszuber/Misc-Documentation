@@ -40,3 +40,23 @@ structure, procedures, responsibilities, resources, and processes required to im
 can categorize these activities into quality planning, assurance, and control, as described in the following sub-
 
 sections.
+
+1.1.1. Quality planning
+
+Software quality planning is the initial activity in the quality management process in which the project manager
+
+identifies the quality standards that are relevant for the project. Identified quality standards derive from existing
+
+international standards, as well as direct and indirect user requirements. Unlike other project activities, quality
+
+planning involves the most intensive communication with the customer, due to the fact that it is necessary to
+
+clearly and unambiguously define the desired level of software quality in an understandable and final form. The
+
+documents that arise from the planning process need to describe what factors or processes, methods, and tools
+
+will impact the establishment of the desired level of quality (Schwalbe, 2006: 295). The basic documents include
+
+the quality management plan and the quality checklist used by the project team to focus on the most important
+
+activities in the course of the project.
