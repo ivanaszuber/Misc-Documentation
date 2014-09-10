@@ -60,3 +60,21 @@ will impact the establishment of the desired level of quality (Schwalbe, 2006: 2
 the quality management plan and the quality checklist used by the project team to focus on the most important
 
 activities in the course of the project.
+
+Our organization adheres to ISO 9126 standards in the software development, therefore the OMS system will be
+
+developed and implemented in accordance with these standards. The ISO 9126 standard defines specified
+
+software characteristics, as well as the process of evaluating software quality (Abran, 2003). According to these
+
+standards, there are six general characteristics of quality software: Functionality (the existence of software
+
+functions or their designated properties), Reliability (ability of the software to maintain the level of performance
+
+under defined conditions, during the specified period), Usability (sustainability for use, or complexity for the end
+
+user), Efficiency (the relationship between the level of performance of the software and the amount of resources
+
+that are used under named conditions), Sustainability (the ability of the software to easily support future
+
+modifications), Portability (the ability of software to be transferred from one workplace to another).
