@@ -99,3 +99,33 @@ specification requirements document, and discussed on the team meeting. It is th
 manager to explain and emphasize the importance of these documents and adherence to the requirements,
 
 standards, and policies contained within them.
+
+1.1.2. Quality assurance
+
+After defining the quality management plan, the project manager has the responsibility of ensuring that his team
+
+follows the quality specification. This phase is called quality assurance, and its main functions are to ensure the
+
+monitoring of quality standards and continuous improvement of the quality.
+
+The process of quality assurance in the OMS project can be structured as follows:
+
+- The project manager is in charge of daily reviewing and reporting the project quality status (Project
+
+manager will conduct daily project measurements in order to develop a repository of performance data
+
+and generate software quality assurance reports for the stakeholders and senior management).
+
+- The project testing team is in charge of continuously conducting integration and system testing and
+
+reporting errors or deviations from defined quality standards and/or user requirements (as outlined in
+
+section 6.1.3.)
+
+- The development team is in charge of fully adhering to the Test Driven Development principles and
+
+developing unit tests for all application logic
+
+- The documentation team is in charge of continuously developing the user documentation, translating the
+
+localization files, and ensuring that all newly implemented application strings are fully lectured
