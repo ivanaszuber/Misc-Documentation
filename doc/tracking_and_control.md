@@ -129,3 +129,26 @@ developing unit tests for all application logic
 - The documentation team is in charge of continuously developing the user documentation, translating the
 
 localization files, and ensuring that all newly implemented application strings are fully lectured
+
+
+One of the most important tools for ensuring the quality is audit. Quality audit, as explained by Galin (2004),
+
+implies a structured review of all activities in the field of quality management and proposed amendments to
+
+standards, procedures and practices, in order to improve the quality and performance of the project team. In that
+
+regard, after the completion of each project phase (design, development and implementation) a formal quality
+
+audit will be conducted in order to benchmark the defined quality standards against the developed quality of the
+
+OMS system. Any deviations found during the audit will be reported back to the project manager, and the final
+
+report signed by the OMS steering committee. Recommendations on quality improvements that result from PM’s
+
+daily reviews and quality audits will be discussed on team meetings and infiltrated into the project plan and
+
+development iterations. In addition, all errors, deviations and recommendations will be documented and uploaded
+
+to our Team Foundation Server (together with the rest of the project documentation) in order to provide a
+
+‘Lessons Learned’ resource for future projects.
