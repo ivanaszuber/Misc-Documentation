@@ -78,3 +78,24 @@ user), Efficiency (the relationship between the level of performance of the soft
 that are used under named conditions), Sustainability (the ability of the software to easily support future
 
 modifications), Portability (the ability of software to be transferred from one workplace to another).
+
+
+In addition to named software characteristics, the OMS system will have to fully adhere to the defined user
+
+requirements. The user requirement specification will be developed as a separate document and delivered to all
+
+members of the team. The document will be fully evaluated and discussed on the initial team meeting, and
+
+appropriate evaluation, verification and testing of these requirements will be done by the project manager and the
+
+testing team thought the life cycle of the project.
+
+The complete list of quality standards, policies, tools and methods which will be used in the OMS project will be
+
+specified in the OMS project SQA plan. The SQA plan will be delivered as a separate document, together with the
+
+specification requirements document, and discussed on the team meeting. It is the responsibility of the project
+
+manager to explain and emphasize the importance of these documents and adherence to the requirements,
+
+standards, and policies contained within them.
