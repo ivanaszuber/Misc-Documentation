@@ -152,3 +152,42 @@ development iterations. In addition, all errors, deviations and recommendations 
 to our Team Foundation Server (together with the rest of the project documentation) in order to provide a
 
 ‘Lessons Learned’ resource for future projects.
+
+
+1.1.3. Quality control
+
+The process of software quality control involves detection of errors that may occur in the processing of user
+
+requirements, analysis, design and implementation. Given that the results can be positive and negative, there are
+
+three basic outcomes of quality control (Schwalbe, 2006: 299):
+
+1. Acceptance decisions – which determine whether the product is acceptable of not
+
+2. Rework – activity that occurs in case the product or an element of the product is not accepted (due to
+
+non-compliance with quality standards or business requirements)
+
+3. Process adjustments – correction or prevention of future problems in the quality of the product, based on
+
+measurements done during the quality control
+
+The most significant part of OMS project quality control will be dedicated to software testing, whose main purpose
+
+is the assurance of software quality through detection of errors. As Kaner et.al (2002) claims, there are two main
+
+goals of the testing process: detection of errors and creation of confidence in the level of software quality.
+
+Schwalbe (2006: 313) separates the process of software testing in several categories: unit testing (in which
+
+developers ensure that a certain part of the program code or element does not contain any critical errors),
+
+integration testing (in which developers ensure that the main software components (modules) do not contain any
+
+critical errors), system testing (where development team leaders test the software as a whole (system) and ensure
+
+that as the final product does not contain any critical errors), acceptance testing (related to the business
+
+requirements, allowing project managers to ensure that the final product conforms to all, or most of the business
+
+requirements).
