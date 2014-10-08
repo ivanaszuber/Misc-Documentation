@@ -191,3 +191,44 @@ that as the final product does not contain any critical errors), acceptance test
 requirements, allowing project managers to ensure that the final product conforms to all, or most of the business
 
 requirements).
+
+
+Most of the testing in the OMS project will be done by developers, who will be responsible for objectively
+
+evaluating the quality of the software. The level of quality that is expected form the software evolves through the
+
+life time of the project development, therefore the testing needs to evolve with it. The project manager will
+
+perform the smallest, but the most important part of testing, which ensures that the product is in accordance with
+
+the defined project requirements.
+
+One of the problems that is solved by continuous testing is the reduction of error elimination costs. As explained
+
+by McConnell (1997), errors are most simply and economically corrected in the same phase as they occur.
+
+However, the use of testing is not enough to guarantee software quality, and is therefore used in combination with
+
+the processes for ensuring software quality, outlined in the previous section. Graham (2006) and Mihnea (2008:
+
+241 -253) confirm this through well-accepted principles of software testing:
+
+- Testing shows the existence of errors, and not their absence
+
+- Testing of all software components is impossible or unprofitable
+
+- Testing should be done early in the software development process
+
+- Testing must evolve with the software
+
+- Testing is done in different ways, depending on the type of software
+
+In addition to named quality control aspects, it is important to outline the relationship between the desired level
+
+of quality and the costs related to achieving this quality. Software development tends towards zero-defect quality,
+
+however, in practice, a logical and practical attitude must be created. Testing of all software modules and the
+
+desire to eliminate every significant error can disrupt the balance of the project and take the ROI index towards a
+
+negative area.
