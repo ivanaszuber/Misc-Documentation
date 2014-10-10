@@ -232,3 +232,46 @@ however, in practice, a logical and practical attitude must be created. Testing 
 desire to eliminate every significant error can disrupt the balance of the project and take the ROI index towards a
 
 negative area.
+
+
+1.1.4. Quality metrics
+
+In order to objectively evaluate software quality and control the quality implementation process, it is necessary to
+
+measure software and project characteristics using predefined metrics. In that regard, the first obligation of
+
+software measurement activity is to determine the entities and attributes of interest that we want to measure. For
+
+software, there are three classes of entities whose attributes should be measured: Processes (that relate to the
+
+activities of software development and include the time factor), Products (results of the processes), Resources
+
+(process inputs). In addition, we can distinguish two types of attributes: Internal (attributes that can be measured
+
+according to their relationship with their environment), and External (attributes that can be measured from the
+
+processes, products, or resources).
+
+Table 10 shows the processes, products and resources that will be evaluated and measured in the OMS project.
+
+Some of the metrics used to measure the named attributes will involve LOC (Lines of code), function points, Mean
+
+Time before Failure (MTBF), Scrum velocity, Work item effort, etc. The complete list of the metrics and techniques
+
+used in the OMS project quality control will be outlined in the SQA plan.
+
+Based on these metrics and the use of Seven Basic Tools of Quality (Cause and effect diagrams, Control charts, Run
+
+Charts, Scatter diagrams, Histograms, Pareto charts, and Flowcharts) (Schwalbe, 2013), the project manager will
+
+conduct continuous evaluation and control of the OMS system quality, discuss the findings with the project team
+
+on each Sprint meeting, include the recommended improvements in the project plan and subsequent iterations,
+
+and report the process to the steering committee. In addition, the SQA audit will perform their quality evaluations
+
+after each major project life cycle phase. This will ensure that the appropriate level of software quality is
+
+implemented in all phases of the development, in addition to the rigorous testing done by the developers, the
+
+integration testing team and the project manager himself.
