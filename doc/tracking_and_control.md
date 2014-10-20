@@ -350,3 +350,36 @@ considered a key to success in performing changes, as it identifies potential co
 the system. Communication will allow the user to understand the efforts that need to be taken in order to
 
 maintain efficient infrastructure, and help him feel as a part of the change management team.
+
+
+Authorization
+
+For the implementation of any change it is necessary to receive proper authorization. The authorization is granted
+
+either by the Project Manager, or by the Change Advisory Board (CAB), on the basis of the Request for Change
+
+(RFC) delivered in the classical written form. Authorization of the RFC has to be documented and uploaded to the
+
+Team Foundation Server.
+
+In case the requested change involves changes in the business, database or technical (code architecture) model,
+
+the RCF has to be authorized by the CAB. In all other cases, the RFC can be authorized by the Project Manager. The
+
+Project Manager is in charge of recognizing the importance of the requested change, filter the request, evaluate its
+
+effect on the system and forward the request to the CAB is necessary.
+
+Documentation
+
+Current and accurate documentation is an essential component of a successful configuration and change
+
+management. Mishandling of documents may have negative consequences on the system because it exposes the
+
+system to many risks. It is hard to keep track of implemented changes, supervise their implementation and
+
+determine false steps, if all the process elements are not adequately documented. Therefore, the OMS project
+
+change management will involve full documentation of Requests for Changes and their Authorization, which will
+
+be uploaded to our Team Foundation Server and be available for future evaluation and use.
