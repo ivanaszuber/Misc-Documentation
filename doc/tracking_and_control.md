@@ -305,3 +305,48 @@ procedures), Entity identification (selection, identification and labeling of al
 and Verification (verification of physical existence of the configuration entity, adherence to the Central
 
 Management Database, and existence of proper documentation) (Galin, 2004).
+
+
+1.2.2. Software Change Management
+
+The purpose of change management is to define standard methods and procedures that will be used in order to
+
+efficiently and promptly handle all changes. In this way, we will minimize the impact of security incidents which are
+
+caused by changes, in order to improve the daily operations within the organization. System entities which may be
+
+subject to change include hardware, software, documentation and procedures associated with the system.
+
+Every change, or request for change, has to be approved through the change management process. The body
+
+responsible for change management decisions is the Change Advisory Board (CAB) (Galin, 2004) composed out of
+
+the OMS Project Steering Committee members. The main activities involved in the change management process
+
+include: filtering change requests, managing change, auditing and closing RFCs (Requests for Change), and
+
+reporting to management. Filtering change requests is a very important activity, since the implementation of the
+
+desired or requested change is usually not beneficial. CAB should approve only those changes that are necessary
+
+for normal functioning of the system or ensuring the system’s promotion in accordance with the organizational
+
+strategy.
+
+The following section provides detailed description of the change management activities that will be taken in the
+
+OMS project.
+
+Communication
+
+Before implementing requested changes it is necessary to communicate the intentions that accompany them.
+
+Communication should cover all implementing changes, their associated risks, and everyone involved in their
+
+execution. Simply put, it is necessary to communicate with both the users and the project team. Communication is
+
+considered a key to success in performing changes, as it identifies potential conflicts and avoids confusion within
+
+the system. Communication will allow the user to understand the efforts that need to be taken in order to
+
+maintain efficient infrastructure, and help him feel as a part of the change management team.
