@@ -275,3 +275,33 @@ after each major project life cycle phase. This will ensure that the appropriate
 implemented in all phases of the development, in addition to the rigorous testing done by the developers, the
 
 integration testing team and the project manager himself.
+
+
+
+1.2. Change management and control
+
+1.2.1. Software Configuration Management
+
+Software Configuration Management (SCM) is the process which monitors all configuration entities of the system.
+
+The full SCM plan will be delivered as a separate document. The following section provides only a brief description
+
+of the SCM activities and definitions used in the OMS project.
+
+The SCM process involves creating a list of system entities, defining relationships between them, monitoring each
+
+entity during its lifecycle, tracking all change requests, and verifying and insuring the correctness of the defined list
+
+of entities. As a part of this process it is possible to define five basic activities: Planning (development of detailed
+
+plans for configuration management which contains strategies, policies, goals, roles, responsibilities, activities and
+
+procedures), Entity identification (selection, identification and labeling of all configuration entities), Control
+
+(ensuring that only the identified configuration entities get accepted or rejected from the system), Monitoring
+
+(making regular reports on all current and past data related to configuration entities throughout their life cycle),
+
+and Verification (verification of physical existence of the configuration entity, adherence to the Central
+
+Management Database, and existence of proper documentation) (Galin, 2004).
