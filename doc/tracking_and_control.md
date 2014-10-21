@@ -383,3 +383,35 @@ determine false steps, if all the process elements are not adequately documented
 change management will involve full documentation of Requests for Changes and their Authorization, which will
 
 be uploaded to our Team Foundation Server and be available for future evaluation and use.
+
+As outlined in previous sections, the OMS system will be developed using the Test Driven Methodology, meaning
+
+that all significant parts of the application logic will be fully covered by unit testing. This will greatly facilitate the
+
+implementation of subsequent changes, as the fear of introducing new bugs in the program will be eliminated. In
+
+case the existing functionality of the program has to be changed, the corresponding changes in the program’s code
+
+will result in failed unit tests. It is the responsibility of the developer to analyze the failed test and verify that the
+
+newly implemented logic corresponds to the requirements. In case the developer finds any unresolved issues, or
+
+questions, he or she must report this to the project manager. The project manager will then take appropriate
+
+actions in resolving the conflicting requirements (for example, if the developer finds that the unit test documents a
+
+critical requirement that will be affected by the newly implemented changes).
+
+Scheduling
+
+Software changes will be accepted and managed throughout the development of the OMS system. As explained in
+
+previous sections, each iteration will include one week for dealing with correction of bugs and implementation of
+
+requested changes. Once the Request for Change has been documented and approved by the CAB, the project
+
+manager will include the requirement in the Product Backlog and discuss it with the team members on the
+
+following Sprint meeting. The named change will be implemented during the next iteration, and installed with the
+
+upcoming software version.
