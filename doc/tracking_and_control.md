@@ -415,3 +415,27 @@ manager will include the requirement in the Product Backlog and discuss it with 
 following Sprint meeting. The named change will be implemented during the next iteration, and installed with the
 
 upcoming software version.
+
+Procedure for emergency intervention
+
+Since we are not dealing with a critical software, there will be no emergency change interventions. All requested
+
+changes will have to go thought the defined procedure of documentation, approval, discussion, testing,
+
+development and implementation. The project manager will discuss this with the customer and take appropriate
+
+actions to ensure that the customer understands and respects the change procedure.
+
+Control
+
+Change and configuration management is a process that begins with the request and ends with the control of all
+
+activities, with the aim of determining the accuracy of the implementation process. After conducting the change, it
+
+is necessary to check all the steps implemented as well as all the information relevant for documentation, in order
+
+to enable continuous process improvement.
+
+Figure below shows a visual representation of the main SCM activities, the roles and responsibilities associated
+
+with it, and the process of approving and implementing the change request.
