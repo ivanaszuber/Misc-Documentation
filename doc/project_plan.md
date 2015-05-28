@@ -118,3 +118,29 @@ Budget Constraint
 The budget  for the project is set to $60,000.
 
 All expenses that arise during the implementation period are part of the project budget and the Customer isn't obliged to pay any additional costs.
+
+5. General and Technical Requirements
+
+For a successful system implementation, the Customer is responsible for securing the infrastructural and technical- technological prerequisites as follows:
+
+
+1.  Communication
+
+The Customer must provide a set Internet line reserved for interaction with the Developer, or the fastest ADSL
+line available.
+2.  Training space
+
+The Customer is to provide training space for the personnel and ensure personnel  availability according to the
+operative agreement.
+
+3.   Coordinators
+
+The Customer must name coordinators who can make operative decisions independently
+
+4.   Server with Internet Access
+
+5.   Windows  Server 2008 or later
+
+6.   Microsoft  SQL Server 2008 or later DBMS
+
+7.   Client computers with Microsoft Windows XP or later operating system connected to a local network
