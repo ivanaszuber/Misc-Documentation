@@ -98,3 +98,23 @@ OMS should be a system that strongly respects the versioning. A set of software 
 The Reporting System
 
 For the creation of all the required reports, the MS Reporting Services technology is to be used. The Reporting Services (RS) technology standard allows that all published  reports can be opened via a web browser. The reports are to be stored on the server and, in accordance with the user rights, available to be viewed via internet browser.
+
+
+For User registration and authorization a special set of components that communicate with Microsoft Active Directory by directory service are to be used.
+
+
+4. Time and Budget Constraints
+
+
+Time Constraint
+
+The Project must be finished during the period of four months.
+
+The beginning of project realization is securing all technical and technological prerequisites by the Customer and signing the contract.
+
+
+Budget Constraint
+
+The budget  for the project is set to $60,000.
+
+All expenses that arise during the implementation period are part of the project budget and the Customer isn't obliged to pay any additional costs.
